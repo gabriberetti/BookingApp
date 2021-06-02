@@ -2,7 +2,7 @@
 
 ## Description ##
 
-A booking app for musician in the electronic music industry
+A booking app for musician in the electronic music industry. Helping artists to connect with club owners, without the mediations of agencies.
 
 ## Interface ##
 
